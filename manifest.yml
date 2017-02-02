@@ -2,7 +2,7 @@ applications:
 - path: .
   memory: 256M
   instances: 1
-  domain: eu-gb.mybluemix.net
-  name: sky-bluemix-starter-2
-  host: sky-bluemix-starter-2
+  domain: au-syd.bluemix.net
+  name: topcoder-k10-node
+  host: topcoder-k10-node
   disk_quota: 1024M
